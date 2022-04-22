@@ -32,3 +32,8 @@
     background-color: #339966;
     color: var(--primary-text-color)
 }
+
+.bottom {
+    background-color: #993366;
+    color: var(--primary-text-color)
+}
